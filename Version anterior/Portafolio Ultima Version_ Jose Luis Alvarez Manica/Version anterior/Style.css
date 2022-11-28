@@ -1,0 +1,128 @@
+
+.nav-link 
+{
+    color:#D4D4D5;
+    
+    
+}
+
+.activo
+{
+    color: #89734F;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.fondo1
+{
+    background-color: #393840;
+    flex: 0.7;
+    width: 70%; height: 100vh;
+}
+
+.fondo1-1
+{
+    background-color: #393840;
+    flex: 0.7;
+    width: 100%; height: 100vh;
+}
+.fondo1-2
+{
+    background-color: #393840;
+    width: 100%; height: 100vh;
+}
+
+.fondo2
+{
+    flex: 0.3;
+    width: 30%; height: 100vh;
+    flex-wrap: wrap;
+}
+
+.fondo3-1
+{
+    background-color: #C3C3B7;
+    width: 100%; height: 20vh;
+}
+
+.fondo3-2
+{
+    width: 100%; height: 60vh;
+}
+.fondo3-3
+{
+    background-color: #C3C3B7;
+    width: 100%; height: 20vh;
+}
+
+.fondo3-4
+{
+    background-color: #C3C3B7;
+}
+
+.h31
+{
+    color:#BBBBBD;
+}
+
+.h32
+{
+    color:#d1d1d4;
+}
+
+
+
+.button {
+    border: 4px solid #89734F;
+    background-color: transparent;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    color:white;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .redsocial
+  {
+    padding-right: 25px;
+  }
+
+  .Espacio1
+  {
+    padding-top: 20%;
+    padding-left: 70px;
+  }
+
+  .Espacio2
+  {
+    padding-top: 25%;
+    padding-left: 80%;
+  }
+
+  .Espacio3
+  {
+    padding-left: 43%;
+  }
+
+ 
+    ul { list-style-type: upper-roman;
+      font-size: larger;
+      color: #BBBBBD;
+      font-weight: 700 }
+
+    .parent
+    {
+        position:absolute;
+    }
+    .slider 
+    {
+        position:relative;
+        left:0;
+    }
+
+   
