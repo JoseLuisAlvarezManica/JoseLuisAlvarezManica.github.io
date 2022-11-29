@@ -202,3 +202,8 @@
         color:#BBBBBD;
         font-size: large
     }
+
+    .padding-0{
+        padding-right:0px;
+        padding-left:0px;
+    }
