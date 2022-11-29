@@ -81,7 +81,7 @@
 .h33
 {
     color: white;
-    font-size: 25px;
+    font-size: 30px;
     -webkit-text-stroke: 1px black;
     text-align: center;
 }
@@ -188,4 +188,17 @@
         width:100%;
         text-align: center;
 
+    }
+    .autodiv3
+    {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        width:100%;
+        text-align: center;
+
+    }
+    .machine
+    {
+        color:#BBBBBD;
+        font-size: large
     }
