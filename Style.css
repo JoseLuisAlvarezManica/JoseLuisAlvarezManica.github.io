@@ -82,8 +82,16 @@
 {
     color: white;
     font-size: 30px;
-    -webkit-text-stroke: 1px black;
+    -webkit-text-stroke: 2px black;
     text-align: center;
+    font-weight: bolder;
+}
+
+.h34
+{
+    color: white;
+    -webkit-text-stroke: 1px black;
+    font-weight: bolder;
 }
 
 
@@ -207,3 +215,24 @@
         padding-right:0px;
         padding-left:0px;
     }
+
+
+    .carousel {
+    margin-bottom: 4rem;
+     }
+ 
+    .carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+    }
+  
+    .carousel-item {
+    height: 48rem;
+    }
+    .carousel-item > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 32rem;
+     }
