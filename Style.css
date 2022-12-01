@@ -239,3 +239,8 @@
     min-width: 100%;
     height: 32rem;
      }
+
+     .card-invisible{
+        background-color: rgba(0, 0, 0, 0);
+        border-color: rgba(0, 0, 0, 0);
+     }
