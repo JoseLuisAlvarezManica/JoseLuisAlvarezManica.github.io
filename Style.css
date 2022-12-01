@@ -70,6 +70,8 @@
 .h32
 {
     color:#d1d1d4;
+    text-decoration: underline;
+    font-family: 'Roboto Slab', serif;
 }
 
 .h35
@@ -92,6 +94,7 @@
     color: white;
     -webkit-text-stroke: 1px black;
     font-weight: bolder;
+    text-shadow: -5px 0px 7px black;
 }
 
 
