@@ -64,7 +64,8 @@
 
 .h31
 {
-    color:#BBBBBD;
+    color:#d1d1d4;
+    font-family: 'Roboto Slab', serif;
 }
 
 .h32
@@ -138,7 +139,7 @@
 
   .Espacio2
   {
-    padding-top: 25%;
+    padding-top: 23%;
     padding-left: 80%;
   }
 
